@@ -1,0 +1,11 @@
+/* html{
+    height: 100%;
+} */
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: linear-gradient(to bottom right,rgb(15, 102, 216),rgb(4, 227, 235));
+}

@@ -1,0 +1,12 @@
+.icon
+{
+    height: 500px;
+    width: 500px;
+}
+@media screen and (max-width: 520px){
+    .icon
+    {
+        height: 300px;
+        width: 300px;
+    }
+}

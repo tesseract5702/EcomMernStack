@@ -1,0 +1,21 @@
+.compName
+{
+    color:azure;
+}
+.nav-item
+{
+    padding-right: 20px;
+}
+.dropdown-menu
+{
+    font-size: 20px;
+    position: absolute;
+}
+.divCart
+{
+    padding: 5px 18px 2px 5px;
+}
+.anchorCart
+{
+    color:antiquewhite;
+}

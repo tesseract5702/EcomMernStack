@@ -1,0 +1,23 @@
+.loginBox{
+    height: 450px;
+    width: 350px;
+    padding: 10px;
+    padding-top: 50px;
+    background-color: rgba(255, 255, 255, 0.692);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+.userName
+{
+    margin: 5px;
+    margin-bottom: 10px;
+}
+.submitBtn
+{
+    margin: 40px 5px 10px 5px;
+}
+.txtpara{
+    text-align : center;
+}
